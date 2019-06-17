@@ -25,7 +25,7 @@ class genius():
         input()
 
 
-# this does the loop. Dont fucking forget it, you fat fuck (aimed at myself, not you github users. I love you<3)
+# this does the loop to not insta close the file upon completion.
 
 if __name__ == '__main__':
     genius()
